@@ -1,2 +1,2 @@
 # tempmailninja
-read tempmail ninja with php
+you can get tempmailninja mail with php its very fast.
